@@ -53,8 +53,6 @@ const createServer = () => {
     );
   });
 
-  server.close();
-
   return server;
 };
 
